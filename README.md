@@ -17,7 +17,7 @@ A Shop & Sell GUI plugin for PocketMine-MP 2.0 by VeoZax.
 - EconomyAPI plugin
 
 ## Installation
-1. Download the plugin from here: ⬇[Download EconomyGUI](https://www.mediafire.com/file/anixuphfc1yih0m/EconomyGUI_v1.0.0.phar/file)
+1. Download the plugin from here: ⬇[Download EconomyGUI](https://www.mediafire.com/file/c6979hrbl9s3qg4/EconomyGUI_v1.0.0.phar/file)
 2. Add it into your server's `plugins/` folder
 3. Restart the server
 4. Edit `config.yml`, `shop.yml`, `sell.yml` as needed
