@@ -49,5 +49,8 @@ A Shop & Sell GUI plugin for PocketMine-MP 2.0 by VeoZax.
 | `economygui.admin` | op | Manage items and categories |
 | `economygui.free` | false | Buy items for free |
 
+## Author
+* Developed by VeoZax
+
 ## License
-MIT License — see LICENSE file.
+This project is licensed under the MIT License.
